@@ -1,3 +1,3 @@
-# dibujo-en-camvas
+# dibujo-en-canvas
 aqui podras dibujar en camvas facilmente
-los lenguajes utilizados son html y camvas y javascript
+los lenguajes utilizados son html y canvas y javascript
